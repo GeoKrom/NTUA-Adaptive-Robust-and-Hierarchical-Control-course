@@ -1,1 +1,1 @@
-# NTUA Adaptive Robust and Hierarchical-Control
+# NTUA Adaptive Robust and Hierarchical Control
