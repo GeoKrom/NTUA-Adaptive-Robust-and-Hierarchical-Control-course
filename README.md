@@ -1,1 +1,4 @@
-# NTUA Adaptive Robust and Hierarchical Control
+# Adaptive, Robust and Hierarchical Control
+
+Analytical and programming exercises for course DPMS_AS/2207 - Adaptive, Robust and Hierarchical Control, School of Mechanical Engineering, National Technical University of Athens.
+
